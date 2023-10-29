@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Prn221_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Prn221_Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\Sign-up.css",
+      "PackagePath": "staticwebassets\\css\\Sign-up.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\nicepage.css",
+      "PackagePath": "staticwebassets\\css\\nicepage.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\resetpass.css",
+      "PackagePath": "staticwebassets\\css\\resetpass.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\singup.css",
+      "PackagePath": "staticwebassets\\css\\singup.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\tableorder.css",
+      "PackagePath": "staticwebassets\\css\\tableorder.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\0fd3416c.jpeg",
+      "PackagePath": "staticwebassets\\img\\0fd3416c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\1170627-f697d5d6.png",
+      "PackagePath": "staticwebassets\\img\\1170627-f697d5d6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\1170627.png",
+      "PackagePath": "staticwebassets\\img\\1170627.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\271228-6c1bfe4a.png",
+      "PackagePath": "staticwebassets\\img\\271228-6c1bfe4a.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\271228.png",
+      "PackagePath": "staticwebassets\\img\\271228.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\4698086-f6ee60be.png",
+      "PackagePath": "staticwebassets\\img\\4698086-f6ee60be.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\4698086.png",
+      "PackagePath": "staticwebassets\\img\\4698086.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\68f64b9d.jpeg",
+      "PackagePath": "staticwebassets\\img\\68f64b9d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\8ad73f3c.jpeg",
+      "PackagePath": "staticwebassets\\img\\8ad73f3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\910329586-01.jpeg",
+      "PackagePath": "staticwebassets\\img\\910329586-01.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\default-image-26.jpg",
+      "PackagePath": "staticwebassets\\img\\default-image-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\default-image.jpg",
+      "PackagePath": "staticwebassets\\img\\default-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\el-enemigo-chardonnay.jpg",
+      "PackagePath": "staticwebassets\\img\\el-enemigo-chardonnay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\el-enemigo-chenin.jpg",
+      "PackagePath": "staticwebassets\\img\\el-enemigo-chenin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\home_t2_s1.jpg",
+      "PackagePath": "staticwebassets\\img\\home_t2_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\home_t2_s3.jpg",
+      "PackagePath": "staticwebassets\\img\\home_t2_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image16.png",
+      "PackagePath": "staticwebassets\\img\\image16.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image2.png",
+      "PackagePath": "staticwebassets\\img\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image3.png",
+      "PackagePath": "staticwebassets\\img\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image4.png",
+      "PackagePath": "staticwebassets\\img\\image4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image5.png",
+      "PackagePath": "staticwebassets\\img\\image5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image6.png",
+      "PackagePath": "staticwebassets\\img\\image6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\image7.png",
+      "PackagePath": "staticwebassets\\img\\image7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-2381345.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-2381345.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-2641886.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-2641886.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-3184192.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-3184192.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-3304057.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-3304057.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-3758133.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-3758133.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-704569.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-704569.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\pexels-photo-821365.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-821365.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\ruou-sam-panh-champagne-ruinart-blanc-de-blancs.jpg",
+      "PackagePath": "staticwebassets\\img\\ruou-sam-panh-champagne-ruinart-blanc-de-blancs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\ruou-sam-panh-champagne-ruinart-brut.jpg",
+      "PackagePath": "staticwebassets\\img\\ruou-sam-panh-champagne-ruinart-brut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\img\\ruou.jpg",
+      "PackagePath": "staticwebassets\\img\\ruou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\intlTelInput\\intlTelInput.css",
+      "PackagePath": "staticwebassets\\intlTelInput\\intlTelInput.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\intlTelInput\\intlTelInput.min.js",
+      "PackagePath": "staticwebassets\\intlTelInput\\intlTelInput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\intlTelInput\\utils.js",
+      "PackagePath": "staticwebassets\\intlTelInput\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\main1.js",
+      "PackagePath": "staticwebassets\\js\\main1.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\main2.js",
+      "PackagePath": "staticwebassets\\js\\main2.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\main3.js",
+      "PackagePath": "staticwebassets\\js\\main3.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\nicepage.js",
+      "PackagePath": "staticwebassets\\js\\nicepage.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Documents\\GitHub\\PRN221_FA23\\Prn221_Project\\Prn221_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Prn221_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Prn221_Project.props",
+      "PackagePath": "build\\Prn221_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Prn221_Project.props",
+      "PackagePath": "buildMultiTargeting\\Prn221_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Prn221_Project.props",
+      "PackagePath": "buildTransitive\\Prn221_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
