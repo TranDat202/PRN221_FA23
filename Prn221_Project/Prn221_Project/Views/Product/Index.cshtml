@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<jsp:include page="header.jsp" />
+<head>
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet"
+          id="bootstrap-css">
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+
+    <script type="text/javascript">
+        function doDelete(id) {
+            if (confirm("are you sure delete student have id=" + id + "")) {
+                window.location = "deleteProduct?id=" + id;
+            }
+        }
+    </script>
+    <!-- <style>
+        body {
+            background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 40px;
+        }
+    </style>
+     -->
+</head>
+
+<body>
+
+    <h1>Danh sách sản phẩm</h1>
+    <br>
+
+    <!-- Button Thêm mới -->
+    <a href="addProduct" class="btn btn-primary">
+        <i class="fas fa-plus"></i> Thêm mới
+    </a>
+    <br>
+    <form action="crudProduct">
+        <div class="table-responsive-sm">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Product Id</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Image</th>
+                        <th>Description</th>
+                        <th>Statude</th>
+                        <th>###</th>
+                    </tr>
+                </thead>
+
+                <c:forEach var="list" items="${lists}">
+                    <tbody>
+
+                        <tr>
+                            <td>P01</td>
+                            <td>EnlessLove</td>
+                            <td>16</td>
+                            <td>250,0000</td>
+                            <td>images/WD-LoveLetter.jpg</td>
+                            <td>Can you resist the sweet promise of angelic white Chrysanthemums, cream-coloured Germini blooms embracing the gorgeous scented Lily? This bouquet inspires an atmosphere of warmth that will give you wings and melt your heart.</td>
+                            <td>True</td>
+                            <td></td>
+                            <td>
+                                <a href="updateProduct?ProductId=${list.productId}">Edit</a>
+
+                                <a href="#" onclick="doDelete('${list.productId}')">Delete</a>
+                            </td>
+                        </tr>
+                    </tbody><!-- comment -->
+                </c:forEach>
+            </table>
+
+
+        </div>
+    </form>
+    </div>
+</body>
+
+</html>
